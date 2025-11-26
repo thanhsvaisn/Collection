@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+yt-dlp[ffmpeg]
+yt-dlp[async]
+jinja2
+redis
+rq
+python-dotenv
+aiofiles
+websockets
